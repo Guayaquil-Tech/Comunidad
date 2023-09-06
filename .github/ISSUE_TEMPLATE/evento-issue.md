@@ -1,5 +1,5 @@
 ---
-name: Evento issue
+name: Evento
 about: Crear un Issue para un evento.
 title: Nombre evento - Lugar - DD/MM/YY
 labels: ''
