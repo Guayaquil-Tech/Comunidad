@@ -1,5 +1,5 @@
 
-# Rporte posterior al evento [Nombre del evento] [Fecha]
+# Reporte posterior al evento [Nombre del evento] [Fecha]
 
 **Ayudate de esta plantilla para llenar el rporte del evento, no es necesario llenar todo los puntos simplemente es una guía y puedes borrar lo que no aplica y también añadir algo que falte.** 
 
