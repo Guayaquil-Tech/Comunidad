@@ -7,7 +7,7 @@ En este repositorio encontraras:
 - Dar seguimiento sobre las actividades que se realizan en Guayaquil
 
 ## Como empezar:
-Vamos a detallar los pasos para crear una nueva activdad, en este caso vamos a poner de ejemplo un "taller de Git".
+Vamos a detallar los pasos para crear una nueva activdad, en este caso vamos a poner de ejemplo un "taller de Git". Recuerda que puedes usar [Guía de markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### 🎫 Abre una Issue 
 Crea una nueva Issue con el siguiente formato "Nombre evento - Lugar - Fecha", por ejemplo "Taller de Git - Universidad Salesiana - 25/11/2023" y en descripción llena lo planeado del evento con el formato del issue.
