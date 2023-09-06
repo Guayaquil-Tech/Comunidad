@@ -22,7 +22,7 @@ Si necesitas ayuda de otras comunidades, etiqueta a los usuarios para que puedan
 Luego de planear y organizar el evento, disfrutalo! 
 
 ### 📝 Feedback
-En el issue cuentanos como fue el evento, incluyendo fotos, links o redes sociales, cuantas personas asistieron, ayudate de la plantilla "Post-evento" copiando el contenido de la plantilla y modificando con tus resultados! 
+En el issue cuentanos como fue el evento, incluyendo fotos, links o redes sociales, cuantas personas asistieron, ayudate de la plantilla "Reporte-Post-Evento" copiando el contenido de la plantilla y modificando con tus resultados! 
 
 ### ✅ Terminamos! 
 Felicidades por hacer un evento, espera que alguien de la comundiad haga un comentario y cierre del issue! Esperamos tu próximo evento!
